@@ -1,5 +1,5 @@
 # rental_offer_in_germany
-About Dataset
+
 Where is the data from?
 The data was scraped from Immoscout24, the biggest real estate platform in Germany. Immoscout24 has listings for both rental properties and homes for sale, however, the data only contains offers for rental properties.
 The scraping process is described in this blog post and the corresponding code for scraping and minimal processing afterwards can be found in this Github repo.
